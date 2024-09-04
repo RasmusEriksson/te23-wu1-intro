@@ -14,3 +14,8 @@ main, footer{
 footer{
     margin-top: 5rem;
 }
+
+ul {
+    list-style: square;
+    line-height: 1.5;
+}
